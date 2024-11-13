@@ -33,6 +33,8 @@ local.properties
 
 # Eclipse
 .settings/
+.classpath
+.project
 .metadata
 .loadpath
 .recommenders
