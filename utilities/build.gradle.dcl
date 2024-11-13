@@ -1,7 +1,6 @@
 androidLibrary {
     namespace = "org.gradle.experimental.android.utilities"
-
-    dependencies {
+    dependenciesDcl {
         api(project(":list"))
     }
 }

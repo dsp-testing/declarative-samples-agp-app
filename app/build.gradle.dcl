@@ -1,7 +1,6 @@
-androidApplication {
+androidApp {
     namespace = "org.example.app"
-
-    dependencies {
+    dependenciesDcl {
         implementation("org.apache.commons:commons-text:1.11.0")
         implementation(project(":utilities"))
     }
