@@ -19,3 +19,4 @@ To run the application, first install it on a connected Android device using:
 
 In IntelliJ IDEA or Android Studio you can use the `app` run configuration to launch the app in an emulator to see a hello world message.
 
+foo
